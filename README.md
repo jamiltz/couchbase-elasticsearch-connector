@@ -18,3 +18,4 @@ The **[Elasticsearch Plugin](README-PLUGIN.md)** is available for Elasticsearch 
 uses the Couchbase Cross Datacenter Replication protocol (XDCR) version 1 (also known as CAPI) to make Elasticsearch act like a Couchbase Server node.
 The plugin does not support secure connections, and is not compatible with
 X-Pack Security.
+d
